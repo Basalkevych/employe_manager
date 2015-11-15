@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+	<employee id="1" children_id_list="2,3">
+		<surname>Zaharyuk</surname>
+		<first_name>Roman</first_name>
+		<second_name>Viktorovych</second_name>
+		<position>Director</position>
+		<properties>
+			<room_place>12/5</room_place>
+			<birthdate>01.12.1983</birthdate>
+			<project>Employee manager, Weather forcast</project>
+			<english>Advansed</english>
+			<phone>+380501721561</phone>
+			<email>roman.zaharyuk@gmail.com</email>
+		</properties>
+	</employee>
+  
+  	<employee id="2" children_id_list="4">
+		<surname>Andrusiv</surname>
+		<first_name>Maria</first_name>
+		<second_name>Ihorivna</second_name>
+		<position>PM</position>
+		<properties>
+			<room_place>35/11</room_place>
+			<birthdate>11.09.1994</birthdate>
+			<project>Employee manager</project>
+			<english>Strong intermediate</english>
+			<phone>+380971092953</phone>
+			<email>maria.andrusiv@gmail.com</email>
+			<skype>maria_andrusiv</skype>
+		</properties>
+	</employee>
+  
+	<employee id="3" children_id_list="8">
+		<surname>Tsedulyak</surname>
+		<first_name>Taras</first_name>
+		<second_name>Bohdanovych</second_name>
+		<position>PM</position>
+		<properties>
+			<room_place>45/3</room_place>
+			<birthdate>18.10.1994</birthdate>
+			<project>Weather forcast</project>
+			<english>Strong intermediate</english>
+			<phone>+380938288652</phone>
+			<email>tsedtapac@ukr.net</email>
+			<skype>tsedtapac</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="4" children_id_list="5,6">
+		<surname>Basalkevych</surname>
+		<first_name>Oleksandr</first_name>
+		<second_name>Andrijovych</second_name>
+		<position>Teamlead</position>
+		<properties>
+			<room_place>35/10</room_place>
+			<birthdate>26.04.1994</birthdate>
+			<project>Employee manager</project>
+			<english>Strong intermediate</english>
+			<phone>+380962830397</phone>
+			<email>basalkevych.alex@gmail.com</email>
+			<skype>morgan_hackprog</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="5" children_id_list="7">
+		<surname>Karpa</surname>
+		<first_name>Dmytro</first_name>
+		<second_name>Mychaylovych</second_name>
+		<position>Lead tester</position>
+		<properties>
+			<room_place>35/8</room_place>
+			<birthdate>23.02.1994</birthdate>
+			<project>Employee manager</project>
+			<english>Strong intermediate</english>
+			<phone>+380630604622</phone>
+			<email>enoriys@gmail.com</email>
+			<skype>ennorin</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="6">
+		<surname>Perehovskiy</surname>
+		<first_name>Vasil</first_name>
+		<second_name>Romanovych</second_name>
+		<position>Architector</position>
+		<properties>
+			<room_place>35/3</room_place>
+			<project>Employee manager</project>
+			<english>Strong intermediate</english>
+			<phone>+380931350914</phone>
+			<email>peregovskiy@gmail.com</email>
+		</properties>
+	</employee>
+  
+ 	<employee id="7">
+		<surname>Vozniak</surname>
+		<first_name>Volodymyr</first_name>
+		<second_name>Vasylovych</second_name>
+		<position>Tester</position>
+		<properties>
+			<room_place>35/4</room_place>
+			<birthdate>13.07.1994</birthdate>
+			<project>Employee manager</project>
+			<english>Strong intermediate</english>
+			<phone>+380980799173</phone>
+			<email>vozniak.vol@hotmail.com</email>
+			<skype>volodymyr_vozniak</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="8" children_id_list="9,10,11">
+		<surname>Suchatskyi</surname>
+		<first_name>Roman</first_name>
+		<second_name>Viktorovych</second_name>
+		<position>Teamlead</position>
+		<properties>
+			<room_place>45/8</room_place>
+			<birthdate>16.03.1994</birthdate>
+			<project>Weather forcast</project>
+			<english>Strong intermediate</english>
+			<phone>+30666173136</phone>
+			<email>stillmen16@ukr.net</email>
+			<skype>stillmen16</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="9">
+		<surname>Balandyuch</surname>
+		<first_name>Oleh</first_name>
+		<second_name>Andriyovych</second_name>
+		<position>Lead tester</position>
+		<properties>
+			<room_place>45/12</room_place>
+			<birthdate>14.08.1994</birthdate>
+			<project>Weather forcast</project>
+			<english>Strong intermediate</english>
+			<phone>+380637236661</phone>
+			<email>balandyukh.o@gmail.com</email>
+			<skype>msdos2.0</skype>
+		</properties>
+	</employee>
+  
+  	<employee id="10">
+		<surname>Kupets</surname>
+		<first_name>Ihor</first_name>
+		<second_name>Volodymyrovych</second_name>
+		<position>Tester</position>
+		<properties>
+			<room_place>45/9</room_place>
+			<birthdate>14.12.1993</birthdate>
+			<project>Weather forcast</project>
+			<english>Strong intermediate</english>
+			<email>igor.kupets.lviv@gmail.com</email>
+		</properties>
+	</employee>
+
+  	<employee id="11">
+		<surname>Levytska</surname>
+		<first_name>Chrystyna</first_name>
+		<second_name>Volodymyrivna</second_name>
+		<position>Architector</position>
+		<properties>
+			<room_place>45/6</room_place>
+			<birthdate>10.12.1994</birthdate>
+			<project>Weather forcast</project>
+			<english>Strong intermediate</english>
+			<email>christina.levytska@gmail.com</email>
+		</properties>
+	</employee>
+
+</company>
+
+	
+	

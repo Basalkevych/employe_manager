@@ -1,0 +1,9 @@
+<server>
+	<connection port="2604"/>
+	<configuration type="debug"/> <!-- "debug"|"production" -->
+	<service>
+		<name>ServiceManager</name>
+		<shown_name>Service Manager</shown_name>
+		<description>Service Manager allows to get information about services from services.xml</description>
+	</service>
+</server>
